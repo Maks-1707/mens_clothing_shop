@@ -1,4 +1,10 @@
-.app{
+.main{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr; 
+  gap: 1rem;
+ }
+  
+ img {
+  width: 350px;
+  height: 450px;
  }
